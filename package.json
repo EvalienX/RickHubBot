@@ -1,0 +1,18 @@
+{
+  "name": "RickHubBot",
+  "version": "1.1.0",
+  "main": "bot.js",
+  "license": "GPL-3.0",
+  "scripts": {
+    "dev": "@EvalienX"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}

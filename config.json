@@ -1,0 +1,7 @@
+{
+    "token": "BotTokenHere",
+    "prefix": "-",
+    "botOwner": "BotOwnerIDHere",
+    "statusChannel": "StatusChannelIDHere",
+    "voiceChannel": "VoiceChannelIDHere"
+}
