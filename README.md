@@ -40,7 +40,7 @@ Run "npm install" and "npm discord.js" in a new terminal window for the project 
 To run the bot just input "node bot.js" in a new teminal window or use the included file "start.sh" to activate the bot after inputing all the info in "config.json".
 
 ### -Packages you will need to install
-You will need all the included packages and files in the public repositorie to run RickHubBot!
+You will need all the included packages and files in the public repository to run RickHubBot!
 
 ## - Deployment
 Deploy the bot by simply filling out the information needed in "config.json" and then run the bot!
