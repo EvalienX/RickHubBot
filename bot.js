@@ -1,7 +1,7 @@
 /**************************************************************************
  * 
  *  RickHubBot: A Discord bot that plays local mp3 audio tracks.
- *  (C) Copyright 2020
+ *  (C) Copyright 2021
  *  Programmed by Evan Barnes
  *  
  *  This program is free software: you can redistribute it and/or modify
