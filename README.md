@@ -13,7 +13,7 @@ To download from GitHub, you should navigate to the top level of the project (SD
 4. Click Choose... and navigate to a local path where you want to clone the repository.
 5. Click Clone.
 
-## Creating you development environment!
+## Creating your development environment!
 - VS Code
 1. Download the Visual Studio Code installer for Windows.
 2. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
